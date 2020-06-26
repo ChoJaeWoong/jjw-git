@@ -277,8 +277,8 @@ __문장강조__
 ![Alt text](/path/to/img.jpg)
 ![Alt text](/path/to/img.jpg "Optional title")
 ```
-![석촌호수 러버덕](http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0)
-![석촌호수 러버덕](http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0 "RubberDuck")
+![여자친구](https://www.google.com/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwj-pcnL_57qAhUQZt4KHQmqBU8QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.edaily.co.kr%2Fnews%2Fread%3FnewsId%3D01331686622553536%26mediaCodeNo%3D258&psig=AOvVaw1B_Mc2Xf7trH1hAUmu2qlX&ust=1593244278177595)
+![여자친구](https://www.google.com/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwj-pcnL_57qAhUQZt4KHQmqBU8QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.edaily.co.kr%2Fnews%2Fread%3FnewsId%3D01331686622553536%26mediaCodeNo%3D258&psig=AOvVaw1B_Mc2Xf7trH1hAUmu2qlX&ust=1593244278177595 "Gfriend")
 
 사이즈 조절 기능은 없기 때문에 ```<img width="" height=""></img>```를 이용한다.
 
