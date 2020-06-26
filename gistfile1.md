@@ -277,19 +277,19 @@ __문장강조__
 ![Alt text](/path/to/img.jpg)
 ![Alt text](/path/to/img.jpg "Optional title")
 ```
-![여자친구](https://lh3.googleusercontent.com/proxy/JABEqj_0Eca3Bdb02bvdD-ioXRfNfm-c8n01IcmFXJuH8sQmiVoOnhWaE0xYYYdX-OlBH__GnVtQfK04lc-CxyHrUkeVCtY0WK_JaPAMyuVuWPNN)
-![여자친구](http://www.meconomynews.com/news/photo/201804/13167_12637_550.jpg "Gfriend")
+![라쿤](https://lh3.googleusercontent.com/proxy/JABEqj_0Eca3Bdb02bvdD-ioXRfNfm-c8n01IcmFXJuH8sQmiVoOnhWaE0xYYYdX-OlBH__GnVtQfK04lc-CxyHrUkeVCtY0WK_JaPAMyuVuWPNN)
+![라쿤](https://lh3.googleusercontent.com/proxy/JABEqj_0Eca3Bdb02bvdD-ioXRfNfm-c8n01IcmFXJuH8sQmiVoOnhWaE0xYYYdX-OlBH__GnVtQfK04lc-CxyHrUkeVCtY0WK_JaPAMyuVuWPNN "라쿤")
 
 사이즈 조절 기능은 없기 때문에 ```<img width="" height=""></img>```를 이용한다.
 
 예
 ```
-<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-<img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="name"></img><br/>
+<img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="name"></img>
 ```
 
-<img src="http://www.meconomynews.com/news/photo/201804/13167_12637_550.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-<img src="http://www.meconomynews.com/news/photo/201804/13167_12637_550.jpg" width="40%" height="30%" title="%(비율) 크기 설정" alt="RubberDuck"></img>
+<img src="https://lh3.googleusercontent.com/proxy/JABEqj_0Eca3Bdb02bvdD-ioXRfNfm-c8n01IcmFXJuH8sQmiVoOnhWaE0xYYYdX-OlBH__GnVtQfK04lc-CxyHrUkeVCtY0WK_JaPAMyuVuWPNN" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="https://lh3.googleusercontent.com/proxy/JABEqj_0Eca3Bdb02bvdD-ioXRfNfm-c8n01IcmFXJuH8sQmiVoOnhWaE0xYYYdX-OlBH__GnVtQfK04lc-CxyHrUkeVCtY0WK_JaPAMyuVuWPNN" width="40%" height="30%" title="%(비율) 크기 설정" alt="RubberDuck"></img>
 
 ## 2.9. 줄바꿈
 3칸 이상 띄어쓰기(` `)를 하면 줄이 바뀐다.
