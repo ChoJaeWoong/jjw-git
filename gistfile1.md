@@ -277,7 +277,7 @@ __문장강조__
 ![Alt text](/path/to/img.jpg)
 ![Alt text](/path/to/img.jpg "Optional title")
 ```
-![여자친구](http://www.meconomynews.com/news/photo/201804/13167_12637_550.jpg)
+![여자친구](https://lh3.googleusercontent.com/proxy/JABEqj_0Eca3Bdb02bvdD-ioXRfNfm-c8n01IcmFXJuH8sQmiVoOnhWaE0xYYYdX-OlBH__GnVtQfK04lc-CxyHrUkeVCtY0WK_JaPAMyuVuWPNN)
 ![여자친구](http://www.meconomynews.com/news/photo/201804/13167_12637_550.jpg "Gfriend")
 
 사이즈 조절 기능은 없기 때문에 ```<img width="" height=""></img>```를 이용한다.
