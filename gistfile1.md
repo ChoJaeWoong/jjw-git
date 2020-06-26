@@ -288,8 +288,8 @@ __문장강조__
 <img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 ```
 
-<img src="http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-<img src="http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0" width="40%" height="30%" title="%(비율) 크기 설정" alt="RubberDuck"></img>
+<img src="http://www.meconomynews.com/news/photo/201804/13167_12637_550.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="http://www.meconomynews.com/news/photo/201804/13167_12637_550.jpg" width="40%" height="30%" title="%(비율) 크기 설정" alt="RubberDuck"></img>
 
 ## 2.9. 줄바꿈
 3칸 이상 띄어쓰기(` `)를 하면 줄이 바뀐다.
