@@ -255,18 +255,18 @@ Link: [Google](https://google.com, "google link")
 
 ## 2.7. 강조
 ```
-*single asterisks*
-_single underscores_
-**double asterisks**
-__double underscores__
-~~cancelline~~
+*문장강조*
+_문장강조_
+**문장강조**
+__문장강조__
+~~문장강조~~
 ```
 
-* *single asterisks*
-* _single underscores_
-* **double asterisks**
-* __double underscores__
-* ~~cancelline~~
+* *문장강조*
+* _문장강조_
+* **문장강조**
+* __문장강조__
+* ~~문장강조~~
 
 > ```문장 중간에 사용할 경우에는 **띄어쓰기** 를 사용하는 것이 좋다.```   
 > 문장 중간에 사용할 경우에는 띄어쓰기를 사용하는 것이 좋다.
